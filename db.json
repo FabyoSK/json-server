@@ -165,30 +165,6 @@
           "type": "linkedin"
         }
       ]
-    },
-    {
-      "id": "d4e5f6g7-8h9i-10j1-k12l-m13n14o15p16",
-      "title": "Coordenador de Logística",
-      "company": {
-        "name": "LogiTech",
-        "category": "Logística"
-      },
-      "location": {
-        "city": "Santos",
-        "state": "SP"
-      },
-      "award_point": "35",
-      "content": "Necessário experiência em gestão de operações logísticas e supply chain.",
-      "apply_links": [
-        {
-          "url": "https://gupy.com/logitech",
-          "type": "gupy"
-        },
-        {
-          "url": "https://linkedin.com/logitech",
-          "type": "linkedin"
-        }
-      ]
     }
   ],
   "indications": [
@@ -340,21 +316,7 @@
       "stage": "Finalizado",
       "feedback_provided": "Necessário mais experiência com automação de testes"
     },
-    {
-      "id": "t1u2v3w4-x5y6-z7a8-b9c0-d1e2f3g4h5i6",
-      "candidate": {
-        "id": "u2v3w4x5-y6z7-a8b9-c0d1-e2f3g4h5i6j7",
-        "name": "Ricardo Silva"
-      },
-      "title": "Backend Developer",
-      "company": {
-        "name": "Server Solutions"
-      },
-      "award_point": "40",
-      "status": "in-progress",
-      "stage": "Entrevista técnica",
-      "feedback_provided": "Forte conhecimento em Node.js e microsserviços"
-    },
+
     {
       "id": "v3w4x5y6-z7a8-b9c0-d1e2-f3g4h5i6j7k8",
       "candidate": {
