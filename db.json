@@ -1,0 +1,396 @@
+{
+  "me": {
+    "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+    "avatar_url": "https://image.com/1.jpg",
+    "name": "Fulano da Silva",
+    "level": "1",
+    "points": "850",
+    "next_level_required_point": "1000"
+  },
+  "notifications": [
+    {
+      "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+      "name": "Você trocou 300 pontos pontos em cupom do Ifood",
+      "description": "RH entrará em contato"
+    },
+    {
+      "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+      "name": "Ciclano foi reprovado durante o processo para a vaga de Assistente Administrativo"
+    },
+    {
+      "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+      "name": "Fulano da Silva foi aprovado para a vaga de motorista particular",
+      "description": "+ 15 pontos"
+    }
+  ],
+  "departments": [
+    {
+      "id": "a1b2c3d4-5e6f-7g8h-9i10-j11k12l13m14",
+      "name": "Recursos Humanos"
+    },
+    {
+      "id": "b2c3d4e5-6f7g-8h9i-10j1-k12l13m14n15", 
+      "name": "Tecnologia"
+    },
+    {
+      "id": "c3d4e5f6-7g8h-9i10-j11k-l13m14n15o16",
+      "name": "Marketing"
+    },
+    {
+      "id": "d4e5f6g7-8h9i-10j1-k12l-m14n15o16p17",
+      "name": "Financeiro"
+    }
+  ],
+  "locations": [
+    {
+      "id": "e5f6g7h8-9i10-j11k-l12m-n15o16p17q18",
+      "city": "São Paulo",
+      "state": "SP"
+    },
+    {
+      "id": "f6g7h8i9-10j1-k12l-m13n-o16p17q18r19",
+      "city": "Rio de Janeiro", 
+      "state": "RJ"
+    },
+    {
+      "id": "g7h8i9j0-11k1-l12m-n13o-p17q18r19s20",
+      "city": "Belo Horizonte",
+      "state": "MG"
+    },
+    {
+      "id": "h8i9j0k1-12l1-m13n-o14p-q18r19s20t21",
+      "city": "Curitiba",
+      "state": "PR"
+    }
+  ],
+  "award_types": [
+    {
+      "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+      "name": "Tipo"
+    }
+  ],
+  "job-vacancies": [
+    {
+      "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+      "title": "Assistente Administrativo",
+      "company": {
+        "name": "Nome da empresa",
+        "category": "Recursos Humanos"
+      },
+      "location": {
+        "city": "São Paulo",
+        "state": "SP"
+      },
+      "award_point": "15",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "apply_links": [
+        {
+          "url": "https://gupy.com/1",
+          "type": "gupy"
+        },
+        {
+          "url": "https://linkedin.com/1",
+          "type": "linkedin"
+        }
+      ]
+    },
+    {
+      "id": "a1b2c3d4-5e6f-7g8h-9i10-j11k12l13m14",
+      "title": "Desenvolvedor Frontend",
+      "company": {
+        "name": "Tech Solutions",
+        "category": "Tecnologia"
+      },
+      "location": {
+        "city": "Campinas",
+        "state": "SP"
+      },
+      "award_point": "25",
+      "content": "Buscamos desenvolvedor frontend com experiência em React e TypeScript.",
+      "apply_links": [
+        {
+          "url": "https://gupy.com/techsolutions",
+          "type": "gupy"
+        },
+        {
+          "url": "https://linkedin.com/techsolutions",
+          "type": "linkedin"
+        }
+      ]
+    },
+    {
+      "id": "b2c3d4e5-6f7g-8h9i-10j1-k12l13m14n15",
+      "title": "Analista de Marketing Digital",
+      "company": {
+        "name": "Marketing Pro",
+        "category": "Marketing"
+      },
+      "location": {
+        "city": "Sorocaba",
+        "state": "SP"
+      },
+      "award_point": "20",
+      "content": "Procuramos analista de marketing digital com foco em mídias sociais.",
+      "apply_links": [
+        {
+          "url": "https://gupy.com/marketingpro",
+          "type": "gupy"
+        },
+        {
+          "url": "https://linkedin.com/marketingpro",
+          "type": "linkedin"
+        }
+      ]
+    },
+    {
+      "id": "c3d4e5f6-7g8h-9i10-j11k-l12m13n14o15",
+      "title": "Gerente de Vendas",
+      "company": {
+        "name": "Sales Master",
+        "category": "Vendas"
+      },
+      "location": {
+        "city": "Ribeirão Preto",
+        "state": "SP"
+      },
+      "award_point": "30",
+      "content": "Vaga para gerente de vendas com experiência em liderança de equipes.",
+      "apply_links": [
+        {
+          "url": "https://gupy.com/salesmaster",
+          "type": "gupy"
+        },
+        {
+          "url": "https://linkedin.com/salesmaster",
+          "type": "linkedin"
+        }
+      ]
+    },
+    {
+      "id": "d4e5f6g7-8h9i-10j1-k12l-m13n14o15p16",
+      "title": "Coordenador de Logística",
+      "company": {
+        "name": "LogiTech",
+        "category": "Logística"
+      },
+      "location": {
+        "city": "Santos",
+        "state": "SP"
+      },
+      "award_point": "35",
+      "content": "Necessário experiência em gestão de operações logísticas e supply chain.",
+      "apply_links": [
+        {
+          "url": "https://gupy.com/logitech",
+          "type": "gupy"
+        },
+        {
+          "url": "https://linkedin.com/logitech",
+          "type": "linkedin"
+        }
+      ]
+    }
+  ],
+  "indications": [
+    {
+      "id": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+      "candidate": {
+        "id": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+        "name": "João Pedro Santos"
+      },
+      "title": "Desenvolvedor Frontend",
+      "company": {
+        "name": "TechCorp Solutions"
+      },
+      "award_point": "25",
+      "status": "in-progress", 
+      "stage": "Entrevista técnica",
+      "feedback_provided": "Excelente profissional, demonstrou grande conhecimento em React e Angular"
+    },
+    {
+      "id": "b3c4d5e6-f7g8-h9i0-j1k2-l3m4n5o6p7q8",
+      "candidate": {
+        "id": "c4d5e6f7-g8h9-i0j1-k2l3-m4n5o6p7q8r9",
+        "name": "Maria Clara Oliveira"
+      },
+      "title": "Analista de Marketing",
+      "company": {
+        "name": "Digital Marketing Pro"
+      },
+      "award_point": "20",
+      "status": "approved",
+      "stage": "Contratado",
+      "feedback_provided": "Profissional criativa com ótima experiência em marketing digital"
+    },
+    {
+      "id": "d5e6f7g8-h9i0-j1k2-l3m4-n5o6p7q8r9s0",
+      "candidate": {
+        "id": "e6f7g8h9-i0j1-k2l3-m4n5-o6p7q8r9s0t1",
+        "name": "Lucas Mendes Silva"
+      },
+      "title": "Analista de Dados",
+      "company": {
+        "name": "Data Analytics SA"
+      },
+      "award_point": "30",
+      "status": "rejected",
+      "stage": "Finalizado",
+      "feedback_provided": "Bom conhecimento técnico mas perfil não se adequou à cultura da empresa"
+    },
+    {
+      "id": "f7g8h9i0-j1k2-l3m4-n5o6-p7q8r9s0t1u2",
+      "candidate": {
+        "id": "g8h9i0j1-k2l3-m4n5-o6p7-q8r9s0t1u2v3",
+        "name": "Ana Paula Costa"
+      },
+      "title": "UX Designer",
+      "company": {
+        "name": "Design Solutions"
+      },
+      "award_point": "35",
+      "status": "in-progress",
+      "stage": "Teste prático"
+    },
+    {
+      "id": "h9i0j1k2-l3m4-n5o6-p7q8-r9s0t1u2v3w4",
+      "candidate": {
+        "id": "i0j1k2l3-m4n5-o6p7-q8r9-s0t1u2v3w4x5",
+        "name": "Roberto Almeida"
+      },
+      "title": "DevOps Engineer",
+      "company": {
+        "name": "Cloud Tech"
+      },
+      "award_point": "40",
+      "status": "approved",
+      "stage": "Contratado",
+      "feedback_provided": "Experiência sólida com AWS e Docker"
+    },
+    {
+      "id": "j1k2l3m4-n5o6-p7q8-r9s0-t1u2v3w4x5y6",
+      "candidate": {
+        "id": "k2l3m4n5-o6p7-q8r9-s0t1-u2v3w4x5y6z7",
+        "name": "Carla Rodrigues"
+      },
+      "title": "Product Owner",
+      "company": {
+        "name": "Agile Solutions"
+      },
+      "award_point": "30",
+      "status": "rejected",
+      "stage": "Finalizado",
+      "feedback_provided": "Faltou experiência em gestão de produtos digitais"
+    },
+    {
+      "id": "l3m4n5o6-p7q8-r9s0-t1u2-v3w4x5y6z7a8",
+      "candidate": {
+        "id": "m4n5o6p7-q8r9-s0t1-u2v3-w4x5y6z7a8b9",
+        "name": "Fernando Santos"
+      },
+      "title": "Arquiteto de Software",
+      "company": {
+        "name": "Systems Corp"
+      },
+      "award_point": "45",
+      "status": "in-progress",
+      "stage": "Entrevista com gestor"
+    },
+    {
+      "id": "n5o6p7q8-r9s0-t1u2-v3w4-x5y6z7a8b9c0",
+      "candidate": {
+        "id": "o6p7q8r9-s0t1-u2v3-w4x5-y6z7a8b9c0d1",
+        "name": "Patricia Lima"
+      },
+      "title": "Scrum Master",
+      "company": {
+        "name": "Agile Team"
+      },
+      "award_point": "35",
+      "status": "approved",
+      "stage": "Contratado",
+      "feedback_provided": "Ótima experiência com times ágeis"
+    },
+    {
+      "id": "p7q8r9s0-t1u2-v3w4-x5y6-z7a8b9c0d1e2",
+      "candidate": {
+        "id": "q8r9s0t1-u2v3-w4x5-y6z7-a8b9c0d1e2f3",
+        "name": "Marcos Oliveira"
+      },
+      "title": "Tech Lead",
+      "company": {
+        "name": "Innovation Tech"
+      },
+      "award_point": "50",
+      "status": "in-progress",
+      "stage": "Teste técnico",
+      "feedback_provided": "Liderança técnica comprovada em projetos anteriores"
+    },
+    {
+      "id": "r9s0t1u2-v3w4-x5y6-z7a8-b9c0d1e2f3g4",
+      "candidate": {
+        "id": "s0t1u2v3-w4x5-y6z7-a8b9-c0d1e2f3g4h5",
+        "name": "Julia Costa"
+      },
+      "title": "QA Engineer",
+      "company": {
+        "name": "Quality Systems"
+      },
+      "award_point": "30",
+      "status": "rejected",
+      "stage": "Finalizado",
+      "feedback_provided": "Necessário mais experiência com automação de testes"
+    },
+    {
+      "id": "t1u2v3w4-x5y6-z7a8-b9c0-d1e2f3g4h5i6",
+      "candidate": {
+        "id": "u2v3w4x5-y6z7-a8b9-c0d1-e2f3g4h5i6j7",
+        "name": "Ricardo Silva"
+      },
+      "title": "Backend Developer",
+      "company": {
+        "name": "Server Solutions"
+      },
+      "award_point": "40",
+      "status": "in-progress",
+      "stage": "Entrevista técnica",
+      "feedback_provided": "Forte conhecimento em Node.js e microsserviços"
+    },
+    {
+      "id": "v3w4x5y6-z7a8-b9c0-d1e2-f3g4h5i6j7k8",
+      "candidate": {
+        "id": "w4x5y6z7-a8b9-c0d1-e2f3-g4h5i6j7k8l9",
+        "name": "Beatriz Santos"
+      },
+      "title": "Data Scientist",
+      "company": {
+        "name": "Data Insights"
+      },
+      "award_point": "45",
+      "status": "approved",
+      "stage": "Contratado",
+      "feedback_provided": "Excelente conhecimento em machine learning e análise estatística"
+    }
+  ],
+  "awards": [
+    {
+      "id": "c2b5b288-0b52-4e2b-a128-d97d865f560f",
+      "cover_url": "https://image.com/1.jpg",
+      "name": "Serviço Solidário",
+      "description": "Serviço solidário na casa Asilo para Terceira Idade do Jardim Novo Mundo",
+      "price": "300",
+      "location": {
+        "city": "São Paulo",
+        "state": "SP",
+        "name": "Nome do local"
+      },
+      "is_award_claimed": true,
+      "extra_images": [
+        {
+          "url": "https://image.com/1.jpg",
+          "alt": "Image de..."
+        }
+      ],
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    }
+  ]
+}
